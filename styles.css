@@ -91,3 +91,10 @@ h3{
 h1{
     color:white;
 }
+.white{
+    color:black;
+    text-align:left;
+}
+#chocolate{
+    float:left;
+}
