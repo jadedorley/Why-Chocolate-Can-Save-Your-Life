@@ -98,3 +98,10 @@ h1{
 #chocolate{
     float:left;
 }
+hr { 
+    color:#ffc61a;
+}
+img{
+    height:200px;
+    width:600px;
+}
